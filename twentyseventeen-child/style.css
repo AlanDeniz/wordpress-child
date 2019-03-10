@@ -1,0 +1,17 @@
+/*
+Theme Name: Bladi Child
+Theme URI: http://alandenz.dk/wordpress
+Description: This is a child theme of 2017
+Author: Alan Dogan
+Author URI: http://Alandenz.dk/portfolio
+Template: twentyseventeen
+Version: 0.1
+*/
+@import url(../twentyseventeen/style.css);
+
+navigation-top{ background-color: beige;}
+
+body{
+	font: italic, grey;
+	
+}
