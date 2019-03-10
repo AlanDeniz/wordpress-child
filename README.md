@@ -1,0 +1,2 @@
+# wordpress-child
+child themes
